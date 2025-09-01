@@ -8,3 +8,8 @@ __pycache__/
 *.db
 *.sqlite
 .env
+uploads/
+*.mp4
+*.avi
+
+
